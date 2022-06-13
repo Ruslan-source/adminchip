@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chipadmin/static/css/main.ed650449.css",
+    "main.js": "/chipadmin/static/js/main.ddc5a70a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/chipadmin/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/chipadmin/index.html",
+    "main.ed650449.css.map": "/chipadmin/static/css/main.ed650449.css.map",
+    "main.ddc5a70a.js.map": "/chipadmin/static/js/main.ddc5a70a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/chipadmin/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed650449.css",
+    "static/js/main.ddc5a70a.js"
+  ]
+}
