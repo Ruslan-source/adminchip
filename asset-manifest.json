@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adminchip/static/css/main.ed650449.css",
-    "main.js": "/adminchip/static/js/main.8a090b4b.js",
+    "main.js": "/adminchip/static/js/main.d61462ac.js",
     "static/js/787.28cb0dcd.chunk.js": "/adminchip/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/adminchip/index.html",
     "main.ed650449.css.map": "/adminchip/static/css/main.ed650449.css.map",
-    "main.8a090b4b.js.map": "/adminchip/static/js/main.8a090b4b.js.map",
+    "main.d61462ac.js.map": "/adminchip/static/js/main.d61462ac.js.map",
     "787.28cb0dcd.chunk.js.map": "/adminchip/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed650449.css",
-    "static/js/main.8a090b4b.js"
+    "static/js/main.d61462ac.js"
   ]
 }
