@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chipadmin/static/css/main.ed650449.css",
-    "main.js": "/chipadmin/static/js/main.cae9d9cc.js",
-    "static/js/787.28cb0dcd.chunk.js": "/chipadmin/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/chipadmin/index.html",
-    "main.ed650449.css.map": "/chipadmin/static/css/main.ed650449.css.map",
-    "main.cae9d9cc.js.map": "/chipadmin/static/js/main.cae9d9cc.js.map",
-    "787.28cb0dcd.chunk.js.map": "/chipadmin/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/adminchip/static/css/main.ed650449.css",
+    "main.js": "/adminchip/static/js/main.c12ded72.js",
+    "static/js/787.28cb0dcd.chunk.js": "/adminchip/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/adminchip/index.html",
+    "main.ed650449.css.map": "/adminchip/static/css/main.ed650449.css.map",
+    "main.c12ded72.js.map": "/adminchip/static/js/main.c12ded72.js.map",
+    "787.28cb0dcd.chunk.js.map": "/adminchip/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed650449.css",
-    "static/js/main.cae9d9cc.js"
+    "static/js/main.c12ded72.js"
   ]
 }
